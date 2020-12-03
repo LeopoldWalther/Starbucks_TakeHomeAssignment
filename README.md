@@ -48,6 +48,18 @@ Starbuchs_AdvertisingPromotionAnalysis/
 
 ## Results: <a name="results"></a>
 
+The following steps were made:
+
+1) **Inspect data:**
+    Understanding data by, for example, checking datatypes and shapes.
+    The focus is on the advertisement promotion.
+    The goal of the analysis is to find out if an advertising promotion changes
+    the behavoiur of customers in a way that there is a higher probability in
+    purchasing. Therefore the percentage of customers who bought the product
+    is calculated for the complete sample and the two groups, customers who
+    received a promotion and those who did not.
+
+
 
 ## Licensing, Authors, Acknowledgements: <a name="licensing"></a>
 
