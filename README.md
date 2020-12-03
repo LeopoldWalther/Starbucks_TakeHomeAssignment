@@ -58,7 +58,13 @@ The following steps were made:
     purchasing. Therefore the percentage of customers who bought the product
     is calculated for the complete sample and the two groups, customers who
     received a promotion and those who did not.
-
+2) **Calculate IRR and NIR:**
+    Calculate the Incremental Response Rate (IRR), which depicts how many more
+    customers purchased the product with the promotion, as compared to if they
+    didn't receive the promotion.
+    Calculate the Net Incremental Revenue (NIR), which depicts how much is made
+    (or lost) by sending out the promotion.
+    
 
 
 ## Licensing, Authors, Acknowledgements: <a name="licensing"></a>
