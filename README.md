@@ -58,12 +58,22 @@ The following steps were made:
     purchasing. Therefore the percentage of customers who bought the product
     is calculated for the complete sample and the two groups, customers who
     received a promotion and those who did not.
+
+
 2) **Calculate IRR and NIR:**
     Calculate the Incremental Response Rate (IRR), which depicts how many more
     customers purchased the product with the promotion, as compared to if they
     didn't receive the promotion.
     Calculate the Net Incremental Revenue (NIR), which depicts how much is made
     (or lost) by sending out the promotion.
+
+
+3) **Perform a Hypothesis test for the IRR and NIR**:
+    Invariant metric is the distribution of customers to control and experiment
+    group. One evalutation metric is the Incremental Response Rate, the other
+    evaluation metric is the Net Incremental Revenue. IRR describes if there
+    is a statistically significant change between control and experiment group,
+    NIR serves to determine if the promotion is pratically significant.
     
 
 
